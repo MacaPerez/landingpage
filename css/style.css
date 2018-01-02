@@ -1,0 +1,24 @@
+body{
+}
+/* menú: parte de arriba de la página*/
+.menu{
+  width:100%;
+  display:flex;   
+}
+.menu .enlaces{
+  background-color: blue;
+  width:100%;
+}
+.menu ul{
+  text-align: center;
+  background-color: orange;
+}
+
+.menu li {
+  display: inline-block;
+  background-color: green;
+}
+.enlaces a{
+  font-size: 30px;
+  
+}
