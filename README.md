@@ -9,7 +9,7 @@ Esta será la web sobre la que aterricen los usuarios interesados en contratar e
 
 Magaruma es el nombre del proyecto que estoy realizando para el Programa Superior de Marketing Digital que curso actualmente en The Valley. El objetivo del mismo es aplicar todos los conocimientos que hemos ido adquiriendo durante el curso para finalmente exponerlo ante un Tribunal.
 
-Como parte de un mismo trabajo, estoy desarrollando la Web en la que me gustaría volcar todo lo que estoy aprendiendo en el Curso de Desarrollo Web Front-end organizado por la E.O.I. y el Programa de Garantía Juvenil del que soy beneficiaria.
+Como parte de un mismo trabajo, estoy desarrollando la Web en la que me gustaría volcar todo lo que estoy aprendiendo en el Curso de Desarrollo Web Front-end. Se trata de una formación organizada por la E.O.I. y el Programa de Garantía Juvenil del que soy beneficiaria.
 
 El nombre y el logotipo son provisionales y están pendientes de ser aprobados por el resto de participantes del proyecto.
 ## Perfiles de usuario
