@@ -1,6 +1,6 @@
 # MAGARUMA
 ## Decripción del proyecto
-Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Se trata de un servicio de que facilita a sus suscriptores el acceso a una dieta bien planificada, en poco tiempo y con poco esfuerzo. Las ventajas que ofrece son las siguientes:
+Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Se trata de un servicio que facilita a sus suscriptores el acceso a una dieta bien planificada, en poco tiempo y con poco esfuerzo. Las ventajas que ofrece son las siguientes:
 
 - Pensamos menús saludables y sabrosos
 - Hacemos la compra por el usuario
