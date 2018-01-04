@@ -36,7 +36,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 - Google Fonts: https://fonts.google.com/
 
 ## Fase 1: Boceto inicial de la página
-![Imagen escaneada del primer boceto de la página] (img/primerBoceto.jpg)
+![Imagen escaneada del primer boceto de la página](img/primerBoceto.jpg)
 
 
 
