@@ -22,3 +22,38 @@ El nombre y el logotipo son provisionales y están pendientes de ser aprobados p
 |    Facebook | https://www.facebook.com/somosmagaruma/   | Perfil en Facebook|
 |Twitter      | https://https://twitter.com/somosmagaruma | Perfil en Twitter|
 |Instagram    |https://www.instagram.com/somosmagaruma/?hl=es | Prefil en Instagram |
+
+## Herramientas Utilizadas
+Este es el listado de herramientas que se han utilizado en todas las fases del proyecto:
+- Trello: https://trello.com/
+- Taylor Brands: https://studio.tailorbrands.com/brands/saved
+- Photoshopen: http://photoshopen.blogspot.com
+- CodePen: https://codepen.io/dashboard/
+- Atom: https://atom.io/
+- Draw io: https://www.draw.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
