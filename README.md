@@ -38,5 +38,5 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 ## Fase 1: Boceto inicial de la página
 ![Imagen escaneada del primer boceto de la página](img/primerBoceto.png)
 ## Fase 2: Segundo Boceto de la página
-En esta segunda fase del proyecto queda decidida la estructura de la web en una sóla página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se mostrará siempre el menú y apartado del mismo en el que se encuentra el usuario.
+En esta segunda fase del proyecto queda decidida la estructura de la web en una sola página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se mostrará siempre el menú y apartado del mismo en el que se encuentra el usuario.
 ![Esquema de la Langind Page. Segundo boceto](img/segundoBoceto.png)
