@@ -35,8 +35,16 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 - Font CDN: https://fontcdn.org/
 - Google Fonts: https://fonts.google.com/
 
-## Fase 1: Boceto inicial de la página
+## Fase 1: Idea inicial de la página
 ![Imagen escaneada del primer boceto de la página](img/primerBoceto.png)
-## Fase 2: Segundo Boceto de la página
-En esta segunda fase del proyecto queda decidida la estructura de la web en una sola página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se mostrará siempre el menú y apartado del mismo en el que se encuentra el usuario.
+## Fase 2: Boceto de la página
+En esta segunda fase del proyecto queda decidida la estructura de la web en una sola página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se indicará al usuario en qué parte de la página está en cada momento.
 ![Esquema de la Langind Page. Segundo boceto](img/segundoBoceto.png)
+
+|  Área modificada | Cambio realizado | Descripción |
+|------------------|------------------|-------------|
+|Header            |Opciones del menú |Se modifican los nombres de      algunas secciones|
+|Header			   |Botones LOG IN/SIGN UP|Se eliminan hasta decidir si serán incluídos en la web|
+|Body              |Inclusión de Formulario|Se incluye un formulario junto con la propuesta de valor para captar LEADS|
+|Body              |Banner con promoción inicial |Cambio de ubicación como estrategia para usuarios que no rellenen el primer formulario|
+|Footer            |Link building                |Se incluyen enlaces internos y externos como parte de la estrategia para SEO|
