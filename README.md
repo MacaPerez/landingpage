@@ -5,7 +5,7 @@ Esta será la web sobre la que aterricen los usuarios interesados en contratar e
 - Pensamos menús saludables y sabrosos
 - Hacemos la compra por el usuario
 - Preparamos las recetas y sus ingredientes
-- Lo entregamos listo para disfrutar
+- Lo entregamos listo para cocinar y disfrutar
 
 Magaruma es el nombre del proyecto que estoy realizando para el Programa Superior de Marketing Digital que curso actualmente en The Valley. El objetivo del mismo es aplicar todos los conocimientos que hemos ido adquiriendo durante el curso para finalmente exponerlo ante un Tribunal.
 
