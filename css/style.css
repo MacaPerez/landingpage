@@ -1,15 +1,15 @@
-body{
+body {
 }
 /* menú: parte de arriba de la página*/
-.menu{
-  width:100%;
-  display:flex;   
+.menu {
+  width: 100%;
+  display: flex;
 }
-.menu .enlaces{
+.menu .enlaces {
   background-color: blue;
-  width:100%;
+  width: 100%;
 }
-.menu ul{
+.menu ul {
   text-align: center;
   background-color: orange;
 }
@@ -18,7 +18,58 @@ body{
   display: inline-block;
   background-color: green;
 }
-.enlaces a{
+.enlaces a {
   font-size: 30px;
+}
+#contenido-principal {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+  display: flex;
+}
+.propuesta {
+  width: 100%;
+  justify-content: center;
+}
+#beneficios{
+  width: 100%;
+  height: 500px;
+  background-color: pink;
+  display:flex;
+}
+#como-funciona{
+  width: 100%;
+  height: 500px;
+  background-color: yellow;
+  display:flex;
+}
+#planes-a-medida{
+  width: 100%;
+  height: 500px;
+  background-color: red;
+  display:flex;
+}
+#progreso{
+  width: 100%;
+  height: 500px;
+  background-color: green;
+  display:flex;
+}
+#comparte-tu-experiencia{
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+  display:flex;
+}
+footer{
+  background-color: grey;
+  width: 100%;
+  height: 200px;
+  display: flex;
+}
+#enlacesrrss{
+  background-color:black;
+  width: 50px;
+  height: 20px;
   
 }
