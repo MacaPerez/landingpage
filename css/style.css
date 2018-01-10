@@ -1,5 +1,6 @@
 body {
   margin: 0;
+
 }
 /* menú: parte de arriba de la página*/
 .menu {
@@ -38,6 +39,20 @@ body {
 .propuesta {
   width: 100%;
   justify-content: center;
+}
+.propuesta p{
+  text-align: center;
+  color: white;
+  font-family: Dosis,serif;
+  font-size: 40px;
+  line-height: 75%;
+}
+.propuesta h1 {
+  text-align: center;
+  color: white;
+  font-family: Dosis,serif;
+  font-size: 60px;
+
 }
 #beneficios{
   width: 100%;

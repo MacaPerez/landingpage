@@ -29,7 +29,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |       Nombre     |         Enlaces               |        Observaciones    |
 |------------------|-------------------------------|-------------------------|
 |       Trello     | https://trello.com/           | Para organizar el trabajo |
-|   Taylor Brands  | https://studio.tailorbrands.com/brands/saved | Para diseñar logotipos |
+|   Tailor Brands  | https://studio.tailorbrands.com/ | Para diseñar logotipos |
 |   Photoshopen    | http://photoshopen.blogspot.com|Para editar imágenes  |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
