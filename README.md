@@ -24,16 +24,19 @@ El nombre y el logotipo son provisionales y están pendientes de ser aprobados p
 |Instagram    |https://www.instagram.com/somosmagaruma/?hl=es | Prefil en Instagram |
 
 ## Herramientas Utilizadas
-Este es el listado de herramientas que se han utilizado en todas las fases del proyecto:
-- Trello: https://trello.com/
-- Taylor Brands: https://studio.tailorbrands.com/brands/saved
-- Photoshopen: http://photoshopen.blogspot.com
-- CodePen: https://codepen.io/dashboard/
-- Atom: https://atom.io/
-- Draw io: https://www.draw.io/
-- Place Holder it: https://placeholder.com/
-- Font CDN: https://fontcdn.org/
-- Google Fonts: https://fonts.google.com/
+Este es el listado de herramientas que se han utilizado en todas las fases del proyecto
+
+|       Nombre     |         Enlaces               |        Observaciones    |
+|------------------|-------------------------------|-------------------------|
+|       Trello     | https://trello.com/           | Para organizar el trabajo |
+|   Taylor Brands  | https://studio.tailorbrands.com/brands/saved | Para diseñar logotipos |
+|   Photoshopen    | http://photoshopen.blogspot.com|Para editar imágenes  |
+|     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
+|       Atom       | https://atom.io/                | Editor de texto     |
+|      Draw io     | https://www.draw.io/            | Para dibujar diagramas y bocetos|
+| Place Holder it  | https://placeholder.com/        |  Herramientas de representación de imágenes desde servidor|    |
+|    Font CDN      | https://fontcdn.org/            | Para descargar tipografías|
+| Google Fonts     | https://fonts.google.com/       | Para descargar tipografías|
 
 ## Fase 1: Idea inicial de la página
 ![Imagen escaneada del primer boceto de la página](img/primerBoceto.png)
