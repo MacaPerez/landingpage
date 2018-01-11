@@ -26,17 +26,30 @@ El nombre y el logotipo son provisionales y están pendientes de ser aprobados p
 ## Herramientas Utilizadas
 Este es el listado de herramientas que se han utilizado en todas las fases del proyecto
 
-|       Nombre     |         Enlaces               |        Observaciones    |
-|------------------|-------------------------------|-------------------------|
+|       Nombre     |         Enlaces       |       Observaciones    |
+|------------------|-----------------------|------------------------|
 |       Trello     | https://trello.com/           | Para organizar el trabajo |
 |   Tailor Brands  | https://studio.tailorbrands.com/ | Para diseñar logotipos |
 |   Photoshopen    | http://photoshopen.blogspot.com|Para editar imágenes  |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
 |      Draw io     | https://www.draw.io/            | Para dibujar diagramas y bocetos|
+|Haroopad          |http://pad.haroopress.com/       |Editor de texto para Markdown con chuleta|
 | Place Holder it  | https://placeholder.com/        |  Herramientas de representación de imágenes desde servidor|    |
 |    Font CDN      | https://fontcdn.org/            | Para descargar tipografías|
 | Google Fonts     | https://fonts.google.com/       | Para descargar tipografías|
+|Fontawsome        |https://fontawesome.com/icons?d=gallery|Iconos en vectores |
+
+##Referencias
+
+|         Enlaces                   |            Observaciones         |
+|-----------------------------------|----------------------------------|
+|https://www.purplecarrot.com/      |Organización de la oferta - landind page/ Efecto 'cambiar plato' - librería (blablabla)|
+|https://foodinthebox.com/          |Distribución y secciones de la web|
+|https://www.aristocrazy.com/es/Home|Estilo de menú - Responsive       |
+
+
+
 
 ## Fase 1: Idea inicial de la página
 ![Imagen escaneada del primer boceto de la página](img/primerBoceto.png)
@@ -44,8 +57,8 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 En esta segunda fase del proyecto queda decidida la estructura de la web en una sola página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se indicará al usuario en qué parte de la página está en cada momento.
 ![Esquema de la Langind Page. Segundo boceto](img/segundoBoceto.png)
 
-|  Área modificada | Cambio realizado | Descripción |
-|------------------|------------------|-------------|
+|  Área modificada | Cambio realizado                   | Descripción |
+|------------------|------------------------------------|-------------|
 |Header            |Opciones del menú |Se modifican los nombres de      algunas secciones|
 |Header			   |Botones LOG IN/SIGN UP|Se eliminan hasta decidir si serán incluídos en la web|
 |Body              |Inclusión de Formulario|Se incluye un formulario junto con la propuesta de valor para captar LEADS|

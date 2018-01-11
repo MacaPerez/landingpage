@@ -3,6 +3,11 @@ body {
 
 }
 /* menú: parte de arriba de la página*/
+.logotipo{
+  margin-top: 5px;
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
 .menu {
   width: 100%;
   display: flex;
@@ -13,7 +18,6 @@ body {
 .menu ul {
   text-align: center;
   margin-top: 51px;
-
 }
 
 .menu li {
@@ -27,7 +31,7 @@ body {
   text-decoration: none;
 }
 .enlaces a:hover {
-  color: #9d971b;
+  color: #e74f1b;
 }
 #contenido-principal {
   width: 100%;
@@ -39,10 +43,19 @@ body {
 .propuesta {
   width: 100%;
   justify-content: center;
+  align-content: center;
+}
+#trans-box-propuesta{
+  width: 630px;
+  height: 140px;
+  background-color: white;
+  filter: opacity(30%);
+
 }
 .propuesta p{
+  justify-content: center;
   text-align: center;
-  color: white;
+  color: black;
   font-family: Dosis,serif;
   font-size: 40px;
   line-height: 75%;
