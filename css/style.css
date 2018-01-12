@@ -88,8 +88,7 @@ header {
 
 #beneficios {
   width: 100%;
-  height: 500px;
-  background-color: pink;
+  background-image: url(../img/beneficios.jpeg);
   display: flex;
 }
 
@@ -103,7 +102,7 @@ header {
 #planes-a-medida {
   width: 100%;
   height: 500px;
-  background-color: red;
+  background-image: url(../img/social/planes-a-medida.jpg);
   display: flex;
 }
 
@@ -117,7 +116,7 @@ header {
 #comparte-tu-experiencia {
   width: 100%;
   height: 500px;
-  background-color: orange;
+  background-image: url(../img/comparte-tu-experiencia.jpeg);
   display: flex;
 }
 
