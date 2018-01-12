@@ -1,27 +1,33 @@
 body {
   margin: 0;
-
 }
-header{
+
+header {
   position: fixed;
   z-index: 5;
   background-color: white;
   width: 100%;
-
 }
+
 /* menú: parte de arriba de la página*/
-.logotipo{
+
+.logotipo {
   margin-top: 5px;
   margin-left: 25px;
   margin-bottom: 5px;
 }
+
 .menu {
   width: 100%;
   display: flex;
+  align-items: center;
+  background-color: rgba(254, 254, 254, 0.9);
 }
+
 .menu .enlaces {
   width: 100%;
 }
+
 .menu ul {
   text-align: center;
   margin-top: 51px;
@@ -31,28 +37,24 @@ header{
   display: inline-block;
   padding: 15px;
 }
+
 .enlaces a {
-  font-family: Rubik,sans-serif;
+  font-family: Rubik, sans-serif;
   font-size: 18px;
   color: #2f2d2f;
   text-decoration: none;
 }
+
 .enlaces a:hover {
   color: #f05743;
 }
 
-
-#fondo-slider-principal{
+#contenido-principal {
   width: 100%;
   height: 500px;
+  background-image: url(../img/contenido-principal.jpg);
   background-size: cover;
-
 }
-
-.slider-principal{
-width: 100%;
-}
-
 
 .propuesta {
   display: flex;
@@ -60,66 +62,74 @@ width: 100%;
   justify-content: center;
   align-items: center;
   width: 100%;
-
 }
-#trans-box-propuesta{
+
+#trans-box-propuesta {
   width: 630px;
   background-color: rgba(66, 68, 70, 0.38);
 }
+
 .propuesta h1 {
   text-align: center;
   color: white;
-  font-family: Rubik,sans-serif;
+  font-family: Rubik, sans-serif;
   font-size: 60px;
-  text-shadow: 0 0 8px rgb(255, 255, 255);
+  text-shadow: 0 0 5px rgb(255, 255, 255);
 }
-.propuesta p{
+
+.propuesta p {
   text-align: center;
   color: white;
-  font-family: Dosis,serif;
+  font-family: Dosis, serif;
   font-size: 30px;
   letter-spacing: 1.3px;
   line-height: 121%;
 }
-#beneficios{
+
+#beneficios {
   width: 100%;
   height: 500px;
   background-color: pink;
-  display:flex;
+  display: flex;
 }
-#como-funciona{
+
+#como-funciona {
   width: 100%;
   height: 500px;
   background-color: yellow;
-  display:flex;
+  display: flex;
 }
-#planes-a-medida{
+
+#planes-a-medida {
   width: 100%;
   height: 500px;
   background-color: red;
-  display:flex;
+  display: flex;
 }
-#progreso{
+
+#progreso {
   width: 100%;
   height: 500px;
   background-color: green;
-  display:flex;
+  display: flex;
 }
-#comparte-tu-experiencia{
+
+#comparte-tu-experiencia {
   width: 100%;
   height: 500px;
   background-color: orange;
-  display:flex;
+  display: flex;
 }
-#footer{
+
+#footer {
   background-color: grey;
   width: 100%;
   height: 200px;
   display: flex;
 }
-#enlacesrrss{
+
+#enlacesrrss {
   background-color: #f05743;
   width: 50px;
   height: 20px;
-
 }
