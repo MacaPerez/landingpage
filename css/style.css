@@ -1,123 +1,123 @@
 body {
-  margin: 0;
+    margin: 0;
 }
 
 header {
-  position: fixed;
-  z-index: 5;
-  background-color: white;
-  width: 100%;
+    position: fixed;
+    z-index: 5;
+    background-color: white;
+    width: 100%;
 }
 
 /* menú: parte de arriba de la página*/
 
 .logotipo {
-  margin-top: 5px;
-  margin-left: 25px;
-  margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 5px;
 }
 
 .menu {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: rgba(254, 254, 254, 0.9);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgba(254, 254, 254, 0.9);
 }
 
 .menu .enlaces {
-  width: 100%;
+    width: 100%;
 }
 
 .menu ul {
-  text-align: center;
-  margin-top: 51px;
+    text-align: center;
+    margin-top: 51px;
 }
 
 .menu li {
-  display: inline-block;
-  padding: 15px;
+    display: inline-block;
+    padding: 15px;
 }
 
 .enlaces a {
-  font-family: Rubik, sans-serif;
-  font-size: 18px;
-  color: #2f2d2f;
-  text-decoration: none;
+    font-family: Rubik, sans-serif;
+    font-size: 18px;
+    color: #2f2d2f;
+    text-decoration: none;
 }
 
 .enlaces a:hover {
-  color: #f05743;
+    color: #f05743;
 }
 
 #contenido-principal {
-  width: 100%;
-  height: 500px;
-  background-image: url(../img/contenido-principal.jpg);
-  background-size: cover;
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/contenido-principal.jpg);
+    background-size: cover;
 }
 
 .propuesta {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 #trans-box-propuesta {
-  width: 630px;
-  background-color: rgba(66, 68, 70, 0.38);
+    width: 630px;
+    background-color: rgba(66, 68, 70, 0.38);
 }
 
 .propuesta h1 {
-  text-align: center;
-  color: white;
-  font-family: Rubik, sans-serif;
-  font-size: 60px;
-  text-shadow: 0 0 5px rgb(255, 255, 255);
+    text-align: center;
+    color: white;
+    font-family: Rubik, sans-serif;
+    font-size: 60px;
+    text-shadow: 0 0 5px rgb(255, 255, 255);
 }
 
 .propuesta p {
-  text-align: center;
-  color: white;
-  font-family: Dosis, serif;
-  font-size: 30px;
-  letter-spacing: 1.3px;
-  line-height: 121%;
+    text-align: center;
+    color: white;
+    font-family: Dosis, serif;
+    font-size: 30px;
+    letter-spacing: 1.3px;
+    line-height: 121%;
 }
 
 #beneficios {
-  width: 100%;
-  background-image: url(../img/beneficios.jpeg);
-  display: flex;
+    width: 100%;
+    background-image: url(../img/beneficios.jpeg);
+    display: flex;
 }
 
 #como-funciona {
-  width: 100%;
-  height: 500px;
-  background-color: yellow;
-  display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: yellow;
+    display: flex;
 }
 
 #planes-a-medida {
-  width: 100%;
-  height: 500px;
-  background-image: url(../img/social/planes-a-medida.jpg);
-  display: flex;
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/social/planes-a-medida.jpg);
+    display: flex;
 }
 
 #progreso {
-  width: 100%;
-  height: 500px;
-  background-color: green;
-  display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: green;
+    display: flex;
 }
 
 #comparte-tu-experiencia {
-  width: 100%;
-  height: 500px;
-  background-image: url(../img/comparte-tu-experiencia.jpeg);
-  display: flex;
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/comparte-tu-experiencia.jpeg);
+    display: flex;
 }
 .testimonios{
   display: flex;
@@ -127,15 +127,19 @@ header {
 
 }
 
-#footer {
-  background-color: grey;
-  width: 100%;
-  height: 200px;
-  display: flex;
+.footer {
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    display: flex;
+}
+
+#fo {
+    background-color: red
 }
 
 #enlacesrrss {
-  background-color: #f05743;
-  width: 50px;
-  height: 20px;
+    background-color: #f05743;
+    width: 50px;
+    height: 20px;
 }
