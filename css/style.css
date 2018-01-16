@@ -124,10 +124,23 @@ header {
 }
 
 .testimonios {
+  display: flex;
   justify-content: center;
   align-items: center;
   width: 600px;
   height: auto;
+}
+
+.slick-prev {
+  background: #f05743 !important;
+  width: 20px !important;
+  height: 20px !important;
+
+}
+.slick-next {
+  background: #f05743 !important;
+  width: 20px !important;
+  height: 20px !important;
 
 }
 .foto-testimonio {
