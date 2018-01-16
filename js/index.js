@@ -1,3 +1,5 @@
-$(document).ready(function() {
-	$('#fullpage').fullpage();
+$(document).ready(function () {
+    $('#fullpage').fullpage({
+        fixedElements: '.footer'
+    });
 });
