@@ -33,6 +33,8 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |   Photoshopen    | http://photoshopen.blogspot.com|Para editar imágenes  |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
+|LESS              | http://lesscss.org/             | "less-postcss-autocompile" lo usamos como plugging de Atom para simplficar el código CSS|
+|    PUG           | https://pugjs.org/api/getting-started.html | "autocompiler-pug-jade" lo usamos como pluggig en Atom para simplificar el código HTML|
 |      Draw io     | https://www.draw.io/            | Para dibujar diagramas y bocetos|
 |Haroopad          |http://pad.haroopress.com/       |Editor de texto para Markdown con chuleta|
 | Place Holder it  | https://placeholder.com/        |  Herramientas de representación de imágenes desde servidor|    |
