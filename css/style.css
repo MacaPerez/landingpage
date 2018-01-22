@@ -136,17 +136,21 @@ header {
 }
 .propiedades li {
   list-style-type: none;
-
 }
 .nombre-receta{
   font-family: Rubik, sans-serif;
-  font-size: 18px;
+  font-size: 25px;
   color: #2f2d2f;
 }
 .para-cuantos{
   font-family: Dosis, sans-serif;
-  font-size: 15px;
-  color: black;
+  font-size: 25px;
+  color: rgb(73, 19, 120);
+}
+.receta li {
+  font-family: Dosis, sans-serif;
+  font-size: 20px;
+  color: rgb(37, 33, 43);
 }
 
 .recetas-foto {
@@ -239,6 +243,16 @@ header {
 .social-media {
   display: flex;
 }
+.enlaces-internos a {
+  font-family: Rubik, sans-serif;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+.enlaces-internos a:hover {
+  color: rgb(128, 125, 123);
+}
+
 
 .enlaces-rrss {
   display: flex;
@@ -248,5 +262,8 @@ header {
 }
 
 .enlaces-rrss ul li {
-  width: 50px;
+  color: 50px;
+}
+.enlaces-rrss ul li:hover {
+  color: #f05743;
 }
