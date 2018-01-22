@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /img/trello/
+sitemaps: https://macaperez.github.io/landingpage/sitemap.xml
