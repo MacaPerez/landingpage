@@ -42,7 +42,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 | Google Fonts     | https://fonts.google.com/       | Para descargar tipografías|
 |Fontawsome        |https://fontawesome.com/icons?d=gallery|Iconos en vectores |
 
-##Referencias
+## Referencias
 
 |         Enlaces                   |            Observaciones         |
 |-----------------------------------|----------------------------------|
