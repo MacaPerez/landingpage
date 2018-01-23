@@ -13,8 +13,8 @@ header {
   margin-top: 5px;
   margin-left: 25px;
   margin-bottom: 5px;
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
 }
 
 .menu {
@@ -90,7 +90,7 @@ header {
 
 #beneficios {
   width: 100%;
-  background-image: url(../img/beneficios.jpeg);
+  background-image: url(../img/beneficios.jpg);
   display: flex;
   background-size:cover;
 }
