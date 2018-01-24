@@ -94,6 +94,26 @@ header {
   display: flex;
   background-size:cover;
 }
+.contenido-beneficios {
+  height: 100%;
+}
+#frase-beneficios {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 50%;
+}
+.iconos-beneficios {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+.iconos-beneficios div p {
+  color: white;
+  text-align: center;
+}
 
 #como-funciona {
   width: 100%;
