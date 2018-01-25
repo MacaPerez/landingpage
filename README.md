@@ -46,6 +46,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 | PEXELS           |https://www.pexels.com/          | Galería de imágenes de licencia libre o con restricciones de uso|
 |Favicon Generator |https://realfavicongenerator.net/ |Generador de Favicons para múltiples plataformas, SO y dispositivos|
 
+
 ## Referencias
 
 |         Enlaces                   |            Observaciones         |
@@ -70,3 +71,6 @@ En esta segunda fase del proyecto queda decidida la estructura de la web en una 
 |Body              |Inclusión de Formulario|Se incluye un formulario junto con la propuesta de valor para captar LEADS|
 |Body              |Banner con promoción inicial |Cambio de ubicación como estrategia para usuarios que no rellenen el primer formulario|
 |Footer            |Link building                |Se incluyen enlaces internos y externos como parte de la estrategia para SEO|
+
+## Fase 3: Estructura final de la página
+![Esquema de la Landing Page. Tercer Boceto](img/tercerBoceto.png)
