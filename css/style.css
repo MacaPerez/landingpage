@@ -217,13 +217,6 @@ header {
   height: 400px;
 }
 
-#progreso {
-  width: 100%;
-  height: 500px;
-  background-color: green;
-  display: flex;
-}
-
 #comparte-tu-experiencia {
   width: 100%;
   height: 400px;
@@ -286,7 +279,13 @@ header {
 
 #foot {
   background-color: rgb(37, 33, 43);
-  display: flex;
+  display: flex !important;
+  justify-content: center;
+
+}
+.foot-cantainer {
+  display: flex !important;
+  flex-direction: column;
 }
 
 .foot-container ul li {
@@ -315,7 +314,9 @@ header {
 }
 
 .enlaces-rrss ul li {
-  color: 50px;
+  color: white;
+  width: 50px;
+  height:50px;
 }
 .enlaces-rrss ul li:hover {
   color: #f05743;
