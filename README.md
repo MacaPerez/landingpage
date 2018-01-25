@@ -30,17 +30,21 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |------------------|-----------------------|------------------------|
 |       Trello     | https://trello.com/           | Para organizar el trabajo |
 |   Tailor Brands  | https://studio.tailorbrands.com/ | Para diseñar logotipos |
-|   Photoshopen    | http://photoshopen.blogspot.com|Para editar imágenes  |
+|       Pixlr      | https://pixlr.com/editor/| Editor de imágenes on-line |
+|       Gravit     | https://designer.gravit.io/     | Aplicación de diseño de vector libre |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
 |LESS              | http://lesscss.org/             | "less-postcss-autocompile" lo usamos como plugging de Atom para simplficar el código CSS|
 |    PUG           | https://pugjs.org/api/getting-started.html | "autocompiler-pug-jade" lo usamos como pluggig en Atom para simplificar el código HTML|
 |      Draw io     | https://www.draw.io/            | Para dibujar diagramas y bocetos|
-|Haroopad          |http://pad.haroopress.com/       |Editor de texto para Markdown con chuleta|
+|Haroopad          |http://pad.haroopress.com/       |Editor de Markdown con chuleta|
 | Place Holder it  | https://placeholder.com/        |  Herramientas de representación de imágenes desde servidor|    |
 |    Font CDN      | https://fontcdn.org/            | Para descargar tipografías|
 | Google Fonts     | https://fonts.google.com/       | Para descargar tipografías|
-|Fontawsome        |https://fontawesome.com/icons?d=gallery|Iconos en vectores |
+| Fontawsome       | https://fontawesome.com/icons?d=gallery| Iconos en vectores |
+| Flaticon         | https://www.flaticon.com/       | Iconos en vectores con distintos formatos |
+| PEXELS           |https://www.pexels.com/          | Galería de imágenes de licencia libre o con restricciones de uso|
+|Favicon Generator |https://realfavicongenerator.net/ |Generador de Favicons para múltiples plataformas, SO y dispositivos|
 
 ## Referencias
 
