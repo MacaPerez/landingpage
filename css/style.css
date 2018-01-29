@@ -91,13 +91,30 @@ header {
   display: flex;
   justify-content: center;
 }
-.formulario #botonform {
+
+form {
+  display: flex;
+  justify-content: center;
+}
+fieldset {
+  display: flex;
   align-items: center;
+  justify-content: center;
+}
+input {
+  font-family: Dosis, serif;
+  font-size: 30px;
+}
+#botonform {
+  display: flex;
+  text-align: center;
+  font-family: Dosis, serif;
+  font-size: 30px;
 }
 
 #beneficios {
   width: 100%;
-  background-image: linear-gradient(to bottom, rgba(24, 24, 24, 0.93), rgba(24, 24, 24, 0.5)), url(../img/beneficios.jpg);
+  background-image: linear-gradient(to bottom, rgba(30, 51, 189, 0.08), rgba(30, 51, 189, 0.08)), url(../img/beneficios.jpg);
   display: flex;
   background-size: cover;
 }
@@ -111,7 +128,10 @@ header {
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
-  height: 50%;
+  height: 45%;
+  font-family: Dosis, sans-serif;
+  font-size: 30px;
+  color: white;
 }
 
 .iconos-beneficios {
@@ -119,18 +139,20 @@ header {
   justify-content: space-around;
   padding: 0 200px;
   align-items: center;
-  height: 50%;
+  height: 55%;
+  background-color: white;
 }
 
 .iconos-beneficios div p {
   color: white;
   text-align: center;
 }
-
+/*
 .iconos-beneficios div {
   padding: 20px;
   background-color: rgba(247, 247, 247, 0.82);
 }
+*/
 
 #como-funciona {
   width: 100%;
