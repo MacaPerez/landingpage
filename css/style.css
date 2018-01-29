@@ -75,7 +75,7 @@ header {
   text-align: center;
   color: white;
   font-family: Rubik, sans-serif;
-  font-size: 60px;
+  font-size: 50px;
   text-shadow: 0 0 30px rgb(0, 0, 0);
 }
 
@@ -145,18 +145,33 @@ input {
   padding-left: 50px;
   padding-right: 50px;
 }
-.iconos-beneficios {
+.seccion-iconos {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  text-align: center;
   padding: 0 200px;
   align-items: center;
   height: 55%;
   background-color: white;
 }
-
-.iconos-beneficios div p {
-  color: white;
+#h2-iconos {
+  display: flex;
+  flex-direction: row;
+  font-family: Dosis, monospace;
+  font-size: 20px;
+  color: rgb(97, 31, 193);
+}
+.iconos {
+  display: flex;
+  justify-content: space-around;
+}
+.icono {
+  color: rgb(97, 31, 193);
   text-align: center;
+  font-size: 20px;
+  font-family: Dosis, serif;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 #como-funciona {
