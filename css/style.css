@@ -22,6 +22,7 @@ header {
   display: flex;
   align-items: center;
   background-color: rgba(254, 254, 254, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .menu .enlaces {
@@ -81,7 +82,7 @@ header {
   letter-spacing: 1.3px;
   line-height: 121%;
 }
-.formulario {
+#formulario {
   display: flex;
   justify-content: center;
   width: 770px;
@@ -117,7 +118,7 @@ color: white;
 
 #beneficios {
   width: 100%;
-  background-image: linear-gradient(to bottom, rgba(33, 33, 32, 0.65), rgba(33, 33, 32, 0.65)), url(../img/beneficios.jpeg);
+  background-image: linear-gradient(to bottom, rgba(33, 33, 32, 0.65), rgba(33, 33, 32, 0.65)), url(../img/verdeverde.jpeg);
   display: flex;
   background-size: cover;
 }
@@ -203,10 +204,9 @@ color: white;
   font-family: Dosis, serif;
   font-size: 20px;
   color: rgb(16, 66, 51);
-  text-shadow: 1px 0px 0px #b9b9b9, 0.76;
+  text-shadow: 1px 0px 0px #b9b9b9;
   width: 200px;
   padding-top: 40px;
-
 }
 .numero-icono {
   padding-bottom: 40px;
@@ -233,7 +233,8 @@ color: white;
 }
 
 .propiedades ul {
-  padding-left: 0;
+  padding-left: 0px;
+  padding-right: 20px;
 }
 
 .propiedades li {
@@ -249,10 +250,13 @@ color: white;
 }
 
 .para-cuantos {
+  text-align: center;
   font-family: Montserrat, sans-serif;
   font-size: 35px;
-  color: rgb(73, 19, 120);
+  color: white;
+  background: rgb(73, 19, 120);
   text-shadow: 0px 1px 1px #201e05;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
 }
 
 .receta li {
@@ -269,6 +273,7 @@ color: white;
   border-radius: 300px;
   width: 500px;
   height: 500px;
+  padding-left: 10px;
 }
 
 #comparte-tu-experiencia {
@@ -356,26 +361,32 @@ color: white;
 .enlaces-internos {
   display: flex;
   justify-content: space-between;
-  padding-top: 30px;
   padding-left: 20px;
   padding-right: 30px;
   text-align: center;
   width: auto;
 }
 .enlace-formulario {
-display: flex;
-flex-direction: row;
-justify-content: center;
-width: auto;
-height: auto;
-background-color: grey;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  background-color: rgb(37, 33, 43);
 }
 
 .enlace-formulario a {
-    font-family: Montserrat, sans-serif;
+    font-family: Dosis, sans-serif;
     font-size: 60px;
+    text-shadow: 0px 0px 1px #656565;
     color: white;
+    background: #cc3e18;
     text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .enlaces-internos a {
@@ -383,6 +394,8 @@ background-color: grey;
   font-size: 15px;
   color: white;
   text-decoration: none;
+  height: 15px;
+
 }
 
 .enlaces-internos a:hover {
@@ -411,3 +424,10 @@ background-color: grey;
 .enlaces-rrss a:hover {
   color: #f05743;
 }
+#cookie-bar {background: #b3b3b3;
+  height:auto;
+  line-height:30px;
+  color:#ffffff;
+  text-align:center;
+  font-family: Dosis, sans-serif;
+  padding:3px 0;}
