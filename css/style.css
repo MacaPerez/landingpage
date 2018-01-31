@@ -97,18 +97,38 @@ fieldset {
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 0;
 }
-input {
-  font-family: Dosis, serif;
-  font-size: 30px;
+fieldset input[type="text"], fieldset input[type="email"] {
+    font-family: Dosis, serif;
+    font-size: 23px;
+    padding: 10px;
+    width: 240px;
+    border: 0;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.5), 1px 1px 3px rgba(0,0,0, .5) inset;
 }
 
 .botonform {
   display: flex;
   text-align: center;
-  font-family: Dosis, serif;
-  font-size: 30px;
+  font-family: Montserrat, serif;
+  font-size: 50px;
+  padding-bottom: 30px;
 }
+#mc-embedded-subscribe {
+    clear: both;
+    width: 150px;
+    display: block;
+    margin: 15px auto!important;
+    padding: 15px!important;
+    font-size: 25px;
+    border: 0;
+    background: #0ab611;
+    color: #fff;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+    text-shadow: 1px 1px 6px #201e05;
+  }
+
 #mce-responses {
 font-size: 30px;
 font-family: Rubik, serif;
@@ -188,7 +208,7 @@ color: white;
   justify-content: center;
   align-items: center;
   height: 100%;
-  margin-bottom; 20px;
+  margin-bottom: 20px;
 }
 
 .paso {
@@ -263,6 +283,7 @@ color: white;
   font-family: Dosis, sans-serif;
   font-size: 30px;
   color: rgb(37, 33, 43);
+  text-shadow: 1px 1px 1px #201e05;
 }
 
 .recetas-foto {
@@ -274,6 +295,20 @@ color: white;
   width: 500px;
   height: 500px;
   padding-left: 10px;
+}
+
+button {
+  clear: both;
+  width: 150px;
+  display: block;
+  margin: 15px auto!important;
+  padding: 15px!important;
+  font-size: 15px;
+  border: 0;
+  background: #0ab611;
+  color: #fff;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  text-shadow: 1px 1px 6px #201e05;
 }
 
 #comparte-tu-experiencia {
@@ -424,6 +459,15 @@ color: white;
 .enlaces-rrss a:hover {
   color: #f05743;
 }
+
+.licencia-iconos {
+  font-size: 13px;
+  color: grey;
+  font-family: Dosis, sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
 #cookie-bar {background: #b3b3b3;
   height:auto;
   line-height:30px;

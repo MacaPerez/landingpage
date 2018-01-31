@@ -41,10 +41,10 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |       PUG        | https://pugjs.org/api/getting-started.html | "autocompiler-pug-jade" Pluggig en Atom para simplificar el código HTML. Se usará en una versión más avanzada|
 |      Haroopad    |http://pad.haroopress.com/       |Editor de Markdown con chuleta|
 |Google Search Console|https://www.google.com/webmasters/tools/ | Herramienta para supervisar el SEO |
-|Google Analytics | https://analytics.google.com/analytics/ |Para analizar tráfico y perfil de usuario que visita la página | 
+|Google Analytics | https://analytics.google.com/analytics/ |Para analizar tráfico y perfil de usuario que visita la página |
 |MailChimp        | https://mailchimp.com/ | Proveedor de servicios Mail Marketing con el que estamos registrando los datos de nuestro Formulario |
 
-![Pantallazo del tablero de Trello](img/capturaTrello2.png)
+![Pantallazo del tablero de Trello](https://macaperez.github.io/landingpage/img/capturaTrello2.png)
 
 ## Herramientas de Imágenes
 |      Nombre   |     Enlaces   | Descripción | Tipo de licencia |
@@ -87,10 +87,10 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 
 
 ## Fase 1: Idea inicial de la página
-![Imagen escaneada del primer boceto de la página](img/primerBoceto.png)
+![Imagen escaneada del primer boceto de la página](https://macaperez.github.io/landingpage/img/primerBoceto.png)
 ## Fase 2: Boceto de la página
 En esta segunda fase del proyecto queda decidida la estructura de la web en una sola página. El menú muestra las opciones disponibles y cada botón dirige al usuario hasta el área en la que se encuadra la información. Se indicará al usuario en qué parte de la página está en cada momento.
-![Esquema de la Langind Page. Segundo boceto](img/segundoBoceto.png)
+![Esquema de la Langind Page. Segundo boceto](https://macaperez.github.io/landingpage/img/segundoBoceto.png)
 
 |  Área modificada | Cambio realizado                   | Descripción |
 |------------------|------------------------------------|-------------|
@@ -101,7 +101,7 @@ En esta segunda fase del proyecto queda decidida la estructura de la web en una 
 |Footer            |Link building                |Se incluyen enlaces internos y externos como parte de la estrategia para SEO|
 
 ## Fase 3: Estructura final de la página
-![Esquema de la Landing Page. Tercer Boceto](img/tercerBoceto.png)
+![Esquema de la Landing Page. Tercer Boceto](https://macaperez.github.io/landingpage/img/tercerBoceto.png)
 
 |  Área modificada | Cambio realizado                   | Descripción |
 |------------------|------------------------------------|-------------|
@@ -115,6 +115,3 @@ En esta segunda fase del proyecto queda decidida la estructura de la web en una 
 
 ## Cosas por hacer
 * Solucionar incompatibilidad con la librería FullPage (problemas de Scroll)
-
-
-
