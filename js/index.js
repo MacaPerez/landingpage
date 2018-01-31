@@ -11,7 +11,9 @@ $(document).ready(function() {
     declineText: 'No estoy de acuerdo',
     declineButton: true
   });
-  $('#fullpage').fullpage({});
+  $('#fullpage').fullpage({
+    //anchors:['beneficios', 'como-funciona', 'planes-a-medida', 'comparte-tu-experiencia']
+  });
   $('.testimonios').slick({
     autoplay: true,
     autoplaySpeed: 4500
