@@ -2,7 +2,7 @@
 ## Decripción del proyecto
 Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Esta Langing Page servirá como plantilla dinámica. La idea es que las imágenes y mensajes se adapten al perfil de la persona que llegue a dicha página con el objetivo de conseguir el mayor número posible de LEADS.
 
-El servicio requiere una fase previa de validación antes de empezar a aumetar la Base de Datos.
+El servicio requiere una fase de validación antes de comenzar la campaña de Marketing para aumetar la Base de Datos.
 
 Se trata de un servicio que facilita a sus suscriptores el acceso a una dieta bien planificada, en poco tiempo y con poco esfuerzo. Las ventajas que ofrece son las siguientes:
 
@@ -34,7 +34,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |------------------|-----------------------|----------------------|
 |       GIT        | https://git-scm.com/  | Sistema de Control de Versiones |
 |    GIT HUB       |https://github.com/    | Plataforma y Red Social para alojar proyectos utilizando el sistema de control de versiones Git |
-|       Trello     | https://trello.com/              | Para organizar el fujo trabajo |
+|       Trello     | https://trello.com/             | Para organizar el fujo trabajo |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
 |       LESS       | http://lesscss.org/             | "less-postcss-autocompile" Plugging de Atom para simplficar el código CSS. Se usará en una versión más avanzada |
