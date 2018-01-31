@@ -37,7 +37,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |       Trello     | https://trello.com/              | Para organizar el fujo trabajo |
 |     CodePen      | https://codepen.io/dashboard/   | Para pruebas con CSS|
 |       Atom       | https://atom.io/                | Editor de texto     |
-|       LESS       | http://lesscss.org/             | "less-postcss-autocompile" Plugging de Atom para simplficar el código CSS.Se usará en una versión más avanzada |
+|       LESS       | http://lesscss.org/             | "less-postcss-autocompile" Plugging de Atom para simplficar el código CSS. Se usará en una versión más avanzada |
 |       PUG        | https://pugjs.org/api/getting-started.html | "autocompiler-pug-jade" Pluggig en Atom para simplificar el código HTML. Se usará en una versión más avanzada|
 |      Haroopad    |http://pad.haroopress.com/       |Editor de Markdown con chuleta|
 |Google Search Console|https://www.google.com/webmasters/tools/ | Herramienta para supervisar el SEO |
@@ -73,15 +73,15 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |    FullPage     | https://alvarotrigo.com/fullPage/ | Para mostrar cada sección en la parte visible de la página al hacer Scroll |
 | Slick Slider    | http://kenwheeler.github.io/slick/| Utilizado para el 'Carrousel' en los platos de comida y testimonios |
 | jQery Cookiebar | https://www.primebox.co.uk/projects/jquery-cookiebar/ | Utilizada para  añadir aviso de Cookies y Política de Privacidad |
-| mc-validator de MailChimp | [https://kb.mailchimp.com/](https://kb.mailchimp.com/es/getting-started/getting-started-with-mailchimp) | Para enlazar nuestro Formilario con MailChimp |
+| mc-validator de MailChimp | [https://kb.mailchimp.com/](https://kb.mailchimp.com/es/getting-started/getting-started-with-mailchimp) | Para enlazar nuestro Formulario con MailChimp |
 
 ## Referencias
 
 |         Enlaces                   |            Observaciones         |
 |-----------------------------------|----------------------------------|
-|https://www.purplecarrot.com/      |Organización de la oferta - landind page/ Efecto 'cambiar plato' - librería (blablabla)|
+|https://www.purplecarrot.com/      |Organización de la oferta - landind page/ Efecto 'cambiar plato'|
 |https://foodinthebox.com/          |Distribución y secciones de la web|
-|https://www.aristocrazy.com/es/Home|Estilo de menú - Responsive       |
+|https://www.aristocrazy.com/es/Home| Estilo de menú - Responsive       |
 
 
 
