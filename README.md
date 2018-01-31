@@ -73,6 +73,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 |    FullPage     | https://alvarotrigo.com/fullPage/ | Para mostrar cada sección en la parte visible de la página al hacer Scroll |
 | Slick Slider    | http://kenwheeler.github.io/slick/| Utilizado para el 'Carrousel' en los platos de comida y testimonios |
 | jQery Cookiebar | https://www.primebox.co.uk/projects/jquery-cookiebar/ | Utilizada para  añadir aviso de Cookies y Política de Privacidad |
+| mc-validator de MailChimp | [https://kb.mailchimp.com/](https://kb.mailchimp.com/es/getting-started/getting-started-with-mailchimp) | Para enlazar nuestro Formilario con MailChimp |
 
 ## Referencias
 
@@ -110,4 +111,10 @@ En esta segunda fase del proyecto queda decidida la estructura de la web en una 
 | Body             |  Sección:  Compaarte tu experiencia | Se incluye librería para el efecto Carrousel de los testimonios |
 | Footer            | Enlace al Formulario | Se añade un botón como enlace al formulario principal |
 | Footer            |  Enlaces externos e internos | Incluímos enlaces a secciones en la Web, nuestras R.R.S.S. y Magazines Gastronómicos que 'hablan de nuestro producto' |
-| Footer             |  Mención Licencias | Añadimos  |
+| Footer             |  Mención Licencias | Añadimos una meción a licencia de Flaticon al final del footer  |
+
+## Cosas por hacer
+* Solucionar incompatibilidad con la librería FullPage (problemas de Scroll)
+
+
+
