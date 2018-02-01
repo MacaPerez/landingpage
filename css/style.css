@@ -297,7 +297,7 @@ color: white;
   padding-left: 10px;
 }
 
-button {
+button.boton-chachi {
   clear: both;
   width: 150px;
   display: block;
@@ -465,7 +465,7 @@ button {
   color: grey;
   font-family: Dosis, sans-serif;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 #cookie-bar {background: #b3b3b3;
