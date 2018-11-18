@@ -1,9 +1,12 @@
 # MAGARUMA
 ## Decripción del proyecto
-Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Esta Langing Page servirá como plantilla dinámica. La idea es que las imágenes y mensajes se adapten al perfil de la persona que llegue a dicha página con el objetivo de conseguir el mayor número posible de LEADS.
+Magaruma es el nombre de otro proyecto que comenzó en el PSMDB+ ('The Valley'). El objetivo de desarrollar esta Landig Page es aplicar todos los conocimientos que hemos ido adquiriendo durante el curso de Desarrollo Web Front-end organizado por E.O.I.
 
-El servicio requiere una fase de validación antes de comenzar la campaña de Marketing para aumetar la Base de Datos.
+Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Servirá como plantilla dinámica y la idea es que los contenidos (imágenes y mensajes) se adapten al perfil de la persona que visite la  página con el objetivo de aumentar los ratios de conversión.
 
+Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Servirá como plantilla dinámica y la idea es que los contenidos (imágenes y mensajes) se adapten al perfil de la persona que visite la  página con el objetivo de aumentar los ratios de conversión. 
+
+## ¿Qué es Magaruma?
 Se trata de un servicio que facilita a sus suscriptores el acceso a una dieta bien planificada, en poco tiempo y con poco esfuerzo. Las ventajas que ofrece son las siguientes:
 
 - Pensamos menús saludables y sabrosos
@@ -11,8 +14,6 @@ Se trata de un servicio que facilita a sus suscriptores el acceso a una dieta bi
 - Preparamos las recetas y sus ingredientes
 - Lo entregamos listo para cocinar y disfrutar
 - Enseñamos a los usuarios a comer bien
-
-Magaruma es el nombre de otro proyecto que comenzó en el PSMDB en 'The Valley'. El objetivo de desarrollar esta Landig Page es aplicar todos los conocimientos que hemos ido adquiriendo durante el curso de Desarrollo Web Front-end organizado por E.O.I. y finalmente exponerlo.
 
 El nombre y el logotipo son provisionales y están pendientes de ser aprobados por el resto de participantes del proyecto.
 ## Perfiles de usuario
@@ -56,7 +57,7 @@ Este es el listado de herramientas que se han utilizado en todas las fases del p
 | Place Holder it | https://placeholder.com/      | Herramientas de representación de imágenes desde servidor| FREE |
 | FireShot | [https://chrome.google.com/webstore..](https://chrome.google.com/webstore/category/extensions?hl=es) |  Extensión de Chrome para hacer capturas de pantalla| FREE |
 |Favicon Generator |https://realfavicongenerator.net/ | Generador de Favicons para múltiples plataformas, SO y dispositivos| FREE |
-| PEXELS           |https://www.pexels.com/          | Galería de imágenes de licencia libre y de pago| FREE |
+| PEXELS           |https://www.pexels.com/          | Galería de imágenes de licencia libre y de pago| CC0 |
 | Flaticon | https://www.flaticon.com/     | Iconos en vectores con distintos formatos | CREATIVE COMMONS |
 
 ## Herramientas para tipofrafías
