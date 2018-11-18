@@ -4,8 +4,6 @@ Magaruma es el nombre de otro proyecto que comenzó en el PSMDB+ ('The Valley').
 
 Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Servirá como plantilla dinámica y la idea es que los contenidos (imágenes y mensajes) se adapten al perfil de la persona que visite la  página con el objetivo de aumentar los ratios de conversión.
 
-Esta será la web sobre la que aterricen los usuarios interesados en contratar el producto que ofrece 'Magaruma'. Servirá como plantilla dinámica y la idea es que los contenidos (imágenes y mensajes) se adapten al perfil de la persona que visite la  página con el objetivo de aumentar los ratios de conversión. 
-
 ## ¿Qué es Magaruma?
 Se trata de un servicio que facilita a sus suscriptores el acceso a una dieta bien planificada, en poco tiempo y con poco esfuerzo. Las ventajas que ofrece son las siguientes:
 
